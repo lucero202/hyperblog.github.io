@@ -22,7 +22,7 @@ padding: 0.5em;
 #cabcera #logo
 {
   width: 20px;
-  vertical-align: middle;   
+  vertical-align: baseline;   
 }
 #cabcera #tagline
 {
